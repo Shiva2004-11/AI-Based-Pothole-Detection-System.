@@ -8,11 +8,17 @@ It is built with Streamlit for a user-friendly web interface and integrates CNN 
 Users can:
 
 *Upload images or capture photos through the webcam
+
 *Get pothole detection results with 3D visualization
+
 *View detection history
+
 *Analyze statistics and insights
+
 *Generate downloadable PDF reports
+
 *File complaints
+
 *Provide feedback
 
 Features:
