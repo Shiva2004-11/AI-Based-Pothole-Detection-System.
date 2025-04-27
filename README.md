@@ -85,11 +85,11 @@ Webcam Captured Dataset:
  
  *These dynamic images help in testing the robustness of the models against:
  
-    *Different lighting conditions
+ *Different lighting conditions
     
-    *Real-world road surface textures
+ *Real-world road surface textures
     
-    *Camera quality variations
+ *Camera quality variations
     
  *No pre-labeling at capture time — used directly for live detection.
 
