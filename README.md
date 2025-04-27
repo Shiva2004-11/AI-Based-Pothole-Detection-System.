@@ -6,6 +6,7 @@ This project presents a Pothole Detection System that uses deep learning models 
 It is built with Streamlit for a user-friendly web interface and integrates CNN and YOLOv8 models for classification and object detection.
 
 Users can:
+
 *Upload images or capture photos through the webcam
 *Get pothole detection results with 3D visualization
 *View detection history
