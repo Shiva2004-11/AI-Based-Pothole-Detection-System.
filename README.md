@@ -88,7 +88,7 @@ This project is licensed under the MIT License.
 Team ✨
 *Shiva Palaksha SG
 *Sibiyenthal K
-* Ranjith LK
+*Ranjith LK
 
 
 
