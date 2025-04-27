@@ -47,6 +47,7 @@ Tech Stack 🛠
 Frontend: Streamlit
 
 Deep Learning Models:
+
  *CNN (TensorFlow/Keras .h5 model)
  
  *YOLOv8 (Ultralytics)
@@ -69,6 +70,7 @@ Others:
 Dataset Description 📂
 
 Uploaded Image Dataset:
+
  *Users upload road surface images.
  
  *Images undergo resizing (224x224) and normalization before being classified.
@@ -82,6 +84,7 @@ Webcam Captured Dataset:
  *Captured images are converted into arrays, resized to 224x224, normalized, and processed live.
  
  *These dynamic images help in testing the robustness of the models against:
+ 
     *Different lighting conditions
     
     *Real-world road surface textures
@@ -118,10 +121,15 @@ pothole-detection-system/
 
 │
 ├── pothole_classifier.h5     # Trained CNN model
+
 ├── yolov8n.pt                 # YOLOv8 object detection model
+
 ├── app.py                     # Main Streamlit app
+
 ├── requirements.txt           # Python package requirements
+
 ├── README.md                  # Project README
+
 └── assets/                    # Images like pothole.gif, icons, etc. (Optional)
 
 License 📜
